@@ -1,0 +1,9 @@
+.product-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.product {
+  width: calc(20% - 20px);
+  margin: 10px;
+  box-sizing: border-box;
+}
